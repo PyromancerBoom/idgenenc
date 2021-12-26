@@ -33,13 +33,16 @@ All operations in AES are mathematical operations in a galois or finite field. S
 
 ## Snapshots
 
-ID and QR Code generated:
+* ID and QR Code generated:
+
 ![QR Code and ID Generated](Images/id.png)
 
-Location in Folder
+* Location in Folder
+
 ![Location in Folder](Images/location.png)
 
-Record in database
+* Record in database
+
 ![Record in SQL](Images/sql.png)
 
 
